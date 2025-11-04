@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+.history/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
