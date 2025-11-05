@@ -1,5 +1,6 @@
 # Base Image: 
 # https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel-25-01.html
+# v25.01-py3: Ubuntu 24.04, CUDA 12.8.0, PyTorch 2.6.0 (matches versions on B200s)
 FROM nvcr.io/nvidia/pytorch:25.01-py3
 
 # NB user
